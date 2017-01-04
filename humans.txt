@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rob Kuschel -- developer/admin/journalist -- https://twitter.com/Robert_Kuschel 
+
+
+# THANKS
+
+    -Rob Kuschel
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Modernizr
